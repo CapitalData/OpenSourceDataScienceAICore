@@ -1,0 +1,5 @@
+openai>=1.65.5
+tenacity>=9.0.0
+arize-phoenix-otel>=0.8.0
+opentelemetry-sdk>=1.25.0
+openinference-instrumentation-openai>=0.1.12
